@@ -1,2 +1,2 @@
 # POW
-POW,  price volatility simulation engine。
+POW,  price volatility simulation engine core。
