@@ -1,7 +1,8 @@
 # POW
 POW,  price volatility simulation engine core。  
 
-###目录说明
+###目录说明  
+
 ./img  生成的文件保存在这里  
 
 ./ExpData.TXT  tab分割的文本数据文件。  
